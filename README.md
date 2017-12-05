@@ -8,13 +8,13 @@ If we were to describe it, with a programmer’s gibberish :
 
 > “npm installs packages which are essentially libraries know as dependencies to your project which then get stored under a folder , properly labelled **node_modules** .
 
-In really plain english, it helps install and / or remove ( “Manage”) the many libraries utilised during the construction / development of a javascript based project.
+In really plain english, it helps you install or remove the many libraries utilised during the construction / development of a javascript based project.
 
 ### **Now, Why Was The Node Package Manager Created ?**
 
 Well, let me put it this, way…
 
-Without NPM, it would be veeeery inconvienient as regarding utilising code or snippets of code / libraries built by other people to solve specific problems,
+Without NPM, it would be very inconvenient to use code snippets or libraries built by other people to solve specific problems,
 
 NPM makes it easy for javascript developers to share codes that they have used to solve a problem and these shared codes can be reused by other developers to solve problems related to their own applications. The shared codes can also be updated when changes have been to them and other developers can download the updated code for their own projects.
 
@@ -32,7 +32,7 @@ The reusable bits of codes are called modules or packages. A package is a direct
 
  package.json is a file that contains metadata about the package. It’s is generated when a particular npm command is initialised. said command also happens to be of the syntax:
 
-**npm Init.**
+**npm init.**
 
 ### **Wait, Commands ?**
 
@@ -60,7 +60,7 @@ Npm has a lot of commands, but typically only very few are used regularly.
 
 and so many more…so…many many more..checkout <https://docs.npmjs.com/cli/start>.
 
-### So, Where exactly do i execute this commands? 
+### So, Where exactly do i execute these commands? 
 
 A nice little place called the your **terminal** or if you a windows person, **command prompt.**
 
@@ -68,6 +68,6 @@ well, you actually type in the commands into the command line interface, AKA the
 
 ### **Yaay, now you know NPM**
 
-And that’s pretty much a it, a decent introduction to NPM, by** The React Team, Planet NEST.**
+And that’s pretty much it, a decent introduction to NPM, by** The React Team, Planet NEST.**
 
 ### 
